@@ -19,15 +19,15 @@ In this task we are give a raw data from excel to perform data cleaning and prep
 - Mapped the Normalized Table as a Physical Data Model
 
 ## STEP 3 Here's the screenshot of my output before I started data cleaning (SEE screenshot)
-![sample Output](task%201%20image/before.png)
+![sample Output]()
 
 ## STEP 4 Here's the screenshot of my output after I started data cleaning (SEE screenshot)
-![step 4 output](task%201%20image/after.png)
+![step 4 output]()
 ## Here's the Data model
-![Data model I created](task%201%20image/data%20model.png)
+![Data model I created]()
 
 ## Here's the finish work
 - Normalized file
-[Normalized file](Task%201%20xlsx%20file/Normalized.xlsx)
+[Normalized file]()
 - Finish file
-[Finish file](Task%201%20xlsx%20file/Finished%20Justine%20reinn%20sanidad%20task%201.xlsx)
+[Finish file]()

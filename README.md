@@ -9,3 +9,9 @@ As I continue my studies, I’m looking forward to expanding my knowledge in pro
 Outside of academics, I enjoy experimenting with new coding projects, staying up to date with tech advancements, and sharpening my expertise in software development. My ultimate goal is to build a strong foundation in Information Systems and contribute to innovative solutions that drive efficiency and success in the tech industry. I’m excited for the journey ahead and the chance to learn, grow, and make a meaningful impact!
 
 ## Education
+ Currently taking 1st year college
+- Senior High School: Francisco G. Nepomuceno Memorial High School High School - Senior High School
+- High School: Francisco G. Nepomuceno Memorial High School
+- Elementary: Pulung Bulu Elementary School
+
+#Project

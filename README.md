@@ -14,4 +14,4 @@ Outside of academics, I enjoy experimenting with new coding projects, staying up
 - High School: Francisco G. Nepomuceno Memorial High School
 - Elementary: Pulung Bulu Elementary School
 
-#Project
+# Project

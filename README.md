@@ -15,3 +15,4 @@ Outside of academics, I enjoy experimenting with new coding projects, staying up
 - Elementary: Pulung Bulu Elementary School
 
 # Project
+[Midterm Lab Task 1] (Midterm%20lab%201)

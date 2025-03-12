@@ -13,7 +13,7 @@ The data requires cleaning, transformation, and organization in Power Query Edit
 ![cleaned data](image/cleaned%20data.png)
 ![sal by role type dup](image/sal%20by%20role%20type%20dup.png)
 ![sal by size ref](image/sal%20by%20size%20ref.png)
-![sal by state ref](image/sal%20by%20state%20ref.png)
+![sal by state ref](image/sal%20by%20state%20ref.PNG)
 ![query dependencies](image/query%20dependencies.png)
 ## Step 1: Loading the Data into Power Query
 - Open Excel and go to Data > Get Data > From Text/CSV.

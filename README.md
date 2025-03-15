@@ -16,3 +16,5 @@ Outside of academics, I enjoy experimenting with new coding projects, staying up
 
 # Project
 [Midterm Lab Task 1](Midterm%20lab%201)
+[Midterm Lab Task 2](MIDTERM%20LAB%20TASK%202)
+[Midterm Lab Task 3](MIDTERM%20LAB%20TASK%203)

@@ -15,6 +15,9 @@ Outside of academics, I enjoy experimenting with new coding projects, staying up
 - Elementary: Pulung Bulu Elementary School
 
 # Project
-[Midterm Lab Task 1](Midterm%20lab%201)
-[Midterm Lab Task 2](MIDTERM%20LAB%20TASK%202)
-[Midterm Lab Task 3](MIDTERM%20LAB%20TASK%203)
+- [Midterm Lab Task 1](Midterm%20lab%201)
+- [Midterm Lab Task 2](MIDTERM%20LAB%20TASK%202)
+- [Midterm Lab Task 3](MIDTERM%20LAB%20TASK%203)
+- [Final Lab Task 1](FINAL%20LAB%20TASK%201)
+- [Final Lab Task 2](FINAL%20LAB%20TASK%202)
+- [Final Lab Task 3](FINAL%20LAB%20TASK%203)

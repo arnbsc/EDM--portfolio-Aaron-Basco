@@ -41,11 +41,12 @@ ALTER TABLE products_table
 MODIFY product_name VARCHAR(120) NOT NULL;
 ```
 This command is used in MySQL Workbench to display the structure of the table, showing details about each column such as its name, data type, whether it allows NULL values, if it's a key, its default value, and any extra attributes.
+
 ```sql
 DESCRIBE products_table;
 ```
 
- ### Product Table
+ ## Product Table
 
  Here's the screenshot of the whole Query Statements and Table Structure (See screenshots)
  

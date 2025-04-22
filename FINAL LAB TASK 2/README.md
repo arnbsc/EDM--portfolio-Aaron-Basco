@@ -41,7 +41,7 @@ Here's the screenshot of Table Structure (See screenshots)
 ### Student table
 
   
-![Sample Output](images/PRODUCTSSS.PNG)
+![Sample Output](images/STUDENT.2.PNG)
 
 ### Assignment table
 

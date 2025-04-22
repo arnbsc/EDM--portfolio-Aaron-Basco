@@ -46,7 +46,7 @@ Here's the screenshot of Table Structure (See screenshots)
 ### Assignment table
 
   
-![Sample Output](images/ASSIGNMENTS.2.PNG)
+![Sample Output](images/ASSIGNMENT.2.PNG)
 
 ### Submission table
 

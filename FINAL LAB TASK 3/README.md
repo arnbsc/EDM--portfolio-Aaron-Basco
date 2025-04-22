@@ -46,7 +46,7 @@ This command is used in MySQL Workbench to display the structure of the table, s
 DESCRIBE products_table;
 ```
 
- ## Product Table
+### Product Table
 
  Here's the screenshot of the whole Query Statements and Table Structure (See screenshots)
  

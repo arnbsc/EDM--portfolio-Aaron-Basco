@@ -51,3 +51,10 @@ DESCRIBE products_table;
  Here's the screenshot of the whole Query Statements and Table Structure (See screenshots)
  
 ![Sample Output](images/LAB3.2.PNG)
+
+### Product's Value Table
+
+ Here's the screenshot of the Query Statements and Table Structure (See screenshots)
+ 
+![Sample Output](images/VALUES.PNG)
+

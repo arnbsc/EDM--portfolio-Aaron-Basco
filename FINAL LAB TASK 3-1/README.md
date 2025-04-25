@@ -9,25 +9,13 @@ CREATE DATABASE online_courseDB;
 USE online_courseDB;
 ```
 
-### TASK 1
-
 ![Sample Output](image/1.PNG)
 
-### TASK 2
 
 ![Sample Output](image/2.PNG)
 
-### TASK 3
 
 ![Sample Output](image/3.PNG)
-
-### TASK 4
-
-![Sample Output](image/4.PNG)
-
-### TASK 5
-
-![Sample Output](image/5.PNG)
 
 ## Here's the screenshot of the whole Query Statements and Table Structure (See screenshots)
 

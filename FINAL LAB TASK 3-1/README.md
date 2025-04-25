@@ -11,42 +11,42 @@ USE online_courseDB;
 
 ### TASK 1
 
-![Sample Output](images/1.PNG)
+![Sample Output](image/1.PNG)
 
 ### TASK 2
 
-![Sample Output](images/2.PNG)
+![Sample Output](image/2.PNG)
 
 ### TASK 3
 
-![Sample Output](images/3.PNG)
+![Sample Output](image/3.PNG)
 
 ### TASK 4
 
-![Sample Output](images/4.PNG)
+![Sample Output](image/4.PNG)
 
 ### TASK 5
 
-![Sample Output](images/5.PNG)
+![Sample Output](image/5.PNG)
 
 ## Here's the screenshot of the whole Query Statements and Table Structure (See screenshots)
 
 ### TASK 1
 
-![Sample Output](images/1 select.PNG)
+![Sample Output](image/1 select.PNG)
 
 ### TASK 2
 
-![Sample Output](images/2 select.PNG)
+![Sample Output](image/2 select.PNG)
 
 ### TASK 3
 
-![Sample Output](images/3 select.PNG)
+![Sample Output](image/3 select.PNG)
 
 ### TASK 4
 
-![Sample Output](images/4 select.PNG)
+![Sample Output](image/4 select.PNG)
 
 ### TASK 5
 
-![Sample Output](images/5 select.PNG)
+![Sample Output](image/5 select.PNG)

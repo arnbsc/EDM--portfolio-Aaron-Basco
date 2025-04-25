@@ -21,20 +21,20 @@ USE online_courseDB;
 
 ### TASK 1
 
-![Sample Output](image/1 select.PNG)
+![Sample Output](image/1select.PNG)
 
 ### TASK 2
 
-![Sample Output](image/2 select.PNG)
+![Sample Output](image/2select.PNG)
 
 ### TASK 3
 
-![Sample Output](image/3 select.PNG)
+![Sample Output](image/3select.PNG)
 
 ### TASK 4
 
-![Sample Output](image/4 select.PNG)
+![Sample Output](image/4select.PNG)
 
 ### TASK 5
 
-![Sample Output](image/5 select.PNG)
+![Sample Output](image/5select.PNG)

@@ -21,4 +21,4 @@ For this task, we are given initial query creates reusable views, procedures, an
 
 ### TASK 5
 
-![Sample Output](images/lab.PNG)
+![Sample Output](images/lab5.PNG)

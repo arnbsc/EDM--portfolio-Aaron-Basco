@@ -5,20 +5,20 @@ For this task, we are given initial query creates reusable views, procedures, an
 
 ### TASK 1
 
-![Sample Output](images/lab1.ppg)
+![Sample Output](images/lab1.png)
 
 ### TASK 2
 
-![Sample Output](images/lab2.ppg)
+![Sample Output](images/lab2.png)
 
 ### TASK 3
 
-![Sample Output](images/lab3.png)
+![Sample Output](images/lab3.PNG)
 
 ### TASK 4
 
-![Sample Output](images/lab4.ppg)
+![Sample Output](images/lab4.PNG)
 
 ### TASK 5
 
-![Sample Output](images/lab.ppg)
+![Sample Output](images/lab.PNG)

@@ -13,7 +13,7 @@ use mongo_practice
 
 ![Sample Output](images/docs1.PNG)
 
-![Sample Output](images/docs2.PNG)
+![Sample Output](images/doc2.PNG)
 
 ### Query Find
 ```sql
